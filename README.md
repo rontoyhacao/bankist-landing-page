@@ -1,6 +1,6 @@
 # Bankist Landing Page
 
-A project from the course "The Complete JavaScript Course 2023: From Zero to Expert!" by Jonas Schmedtmann on Udemy.
+A project from the course "The Complete JavaScript Course 2022: From Zero to Expert!" by Jonas Schmedtmann on Udemy.
 
 This project teaches the following JavaScript features and concepts:
 - Lazy loading
